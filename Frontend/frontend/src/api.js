@@ -1,7 +1,9 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:5000/api" // backend base URL
+  baseURL: "https://mayurassignmentfullstackflipr.onrender.com/api"
+  //        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  //        your Render backend URL + /api
 });
 
 export default api;
