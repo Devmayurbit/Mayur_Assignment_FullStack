@@ -1,8 +1,4 @@
-Sure — here is the README in **one single clean block** so you can copy-paste easily 👇
 
----
-
-```md
 # 🚀 RealTrust – FLiPR Fullstack Assignment
 
 RealTrust is a full-stack web application built as my FLiPR assignment. It includes a modern landing page, projects gallery, happy clients testimonials, contact form and a full admin panel to manage all dynamic data.
@@ -131,8 +127,6 @@ baseURL: "[http://localhost:5000/api](http://localhost:5000/api)"
 
 ```
 
----
-
 ## 🌐 Deployment
 
 ### Backend (Render)
@@ -159,9 +153,8 @@ SPA routing fix → create `vercel.json` in frontend:
 ]
 }
 
-```
 
----
+
 
 ## 🚀 Future Improvements
 - Admin authentication (JWT)
@@ -170,20 +163,11 @@ SPA routing fix → create `vercel.json` in frontend:
 - Email notification on new contact form
 - Dark mode
 
----
+
 
 ## ✍️ Author
 **Mayur Sonwane**  
 Full-stack project created as **FLiPR Assignment** — UI + backend + MongoDB + deployment on Vercel & Render.
 
 🔗 Live Demo: https://flipr-fullstack-project.vercel.app/
-```
 
----
-
-If you want, I can also generate:
-✔ Submission PDF
-✔ Flowchart / architecture diagram
-✔ PPT for project viva
-
-Just say **"make submission pdf"** or **"make ppt"** and I’ll do it. 🚀
